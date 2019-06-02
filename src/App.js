@@ -20,7 +20,8 @@ function App() {
         >
           Learn React
         </a>
-        <p>Well done with Netlify!</p>
+        <p>Launch with Netlify!
+        Todo List app</p>
       </header>
     </div>
   );
