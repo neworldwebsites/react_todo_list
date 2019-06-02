@@ -20,7 +20,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>super ! ça marche en ligne</p>
+        <p>Well done with Netlify!</p>
       </header>
     </div>
   );
